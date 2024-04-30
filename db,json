@@ -1,0 +1,25 @@
+{
+    "Peliculas": [
+        {
+            "id": 1,
+            "name": "Mision Imposible",
+            "year": 2003,
+            "directors": "matias lucena",
+            "Where to see": "netflix"
+        },
+        {
+            "id": 2,
+            "name": "Rapido y furioso 10",
+            "year": 2020,
+            "directors": "emiliano lucena",
+            "Where to see": "netflix"
+        },
+        {
+            "id": 3,
+            "name": "Rapido y furioso n4",
+            "year": 2014,
+            "directors": "Leandro lucena",
+            "Where to see": "Star+"
+        }
+    ]
+}
